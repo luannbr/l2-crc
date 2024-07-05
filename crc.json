@@ -1,5 +1,6 @@
 {
   "system_paths": ["System_en", "System_ru"],
+  "external_paths": ["SysTextures", "Textures","L2text","Maps","Sounds","music", "StaticMeshes", "L2text_classic", "Animations"],
   "files": [
     {
       "fileName": "System_en\\l2.bin",
