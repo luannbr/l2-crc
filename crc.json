@@ -26,6 +26,11 @@
       "fileName": "SysTextures\\L2UI_CT1.utx",
       "SHA1": "F779EDEFCA9F9AA2DCA6B73B579C16ACAD4A3333",
       "URL_LINK": "https://cdn.discordapp.com/attachments/717484973132873783/1258653806833434704/L2UI_CT1.zip?ex=66897cf4&is=66882b74&hm=4ee82e3346780374c5a865552599990fb355590904fec7f88f798636810b3500&"
+    },
+    {
+      "fileName": "SysTextures\\Icon.utx",
+      "SHA1": "B135100439C9C63FBA060ADA501E2CDD8CC0BF8F",
+      "URL_LINK": "https://cdn.discordapp.com/attachments/717484973132873783/1259006187735748648/Icon.zip?ex=668a1c62&is=6688cae2&hm=4e366c2657b345813e14a00a98e6f52cdfdd754fe617168495c325181bf2720f&"
     }
   ],
   "full_system_url": "https://raw.githubusercontent.com/luannbr/l2-crc/main/crc.json"
