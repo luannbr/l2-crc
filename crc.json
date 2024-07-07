@@ -1,5 +1,5 @@
 {
-  "system_paths": ["System_en", "System_ru"],
+  "system_paths": ["System_en", "System_ru", "System"],
   "external_paths": ["SysTextures", "Textures","L2text","Maps","Sounds","music", "StaticMeshes", "L2text_classic", "Animations"],
   "files": [
     {
