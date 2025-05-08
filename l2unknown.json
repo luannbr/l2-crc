@@ -1,0 +1,37 @@
+{
+  "system_paths": ["System_en", "System_ru", "System"],
+  "external_paths": ["SysTextures", "Textures","L2text","Maps","Sounds","music", "StaticMeshes", "L2text_classic", "Animations"],
+  "files": [
+    {
+      "fileName": "System_en\\l2.bin",
+      "SHA1": "4df67848a41fffc7d12d3cbaf053dad17bf9f986",
+      "URL_LINK": "https://l2unknown.com/updater/l2.bin"
+    },
+    {
+      "fileName": "System_en\\l2.ini",
+      "SHA1": "fb20345ae4e33b76b8cf8860bc4390901c9873a4",
+      "URL_LINK": "https://l2unknown.com/updater/l2.ini"
+    },
+    {
+      "fileName": "System_en\\Interface.u",
+      "SHA1": "d869473736a7be73328771c38e984e84071368db",
+      "URL_LINK": "https://l2unknown.com/updater/Interface.u"
+    },
+    {
+      "fileName": "System_en\\Interface.xdat",
+      "SHA1": "94c08864ebbe173c019481c04a7f392670667059",
+      "URL_LINK": "https://l2unknown.com/updater/Interface.xdat"
+    },
+	{
+      "fileName": "System_en\\InterfaceClassic.u",
+      "SHA1": "853a2c16e3bf2bcafb1dfcdb1999743ff670b096",
+      "URL_LINK": "https://l2unknown.com/updater/Interface.u"
+    },
+    {
+      "fileName": "System_en\\InterfaceClassic.xdat",
+      "SHA1": "567c8e0092fd30089971c104d73c745d43c05c69",
+      "URL_LINK": "https://l2unknown.com/updater/Interface.xdat"
+    }
+  ],
+  "full_system_url": "https://l2unknown.com/updater/l2unknown.json"
+}
